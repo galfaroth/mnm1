@@ -149,3 +149,5 @@ shows FM+ playing with its audio waveform in the firmware oscilloscope.
 This identity-only update keeps MNM-1 1.0 project/settings formats. Compatibility
 with arbitrary projects from other firmware is not guaranteed. It does not
 perform the optional expanded-library migration or replace user samples.
+
+You can also try MNM-1 in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
